@@ -6,3 +6,6 @@ Este repositorio tiene las practicas y tareas de la materia de sistemas operativ
 -[Practica1](./Practica1.md)
 
 -[Practica2](./Practica2.md)
+
+-[Practica4](https://github.com/AtraxxDev/practica4)
+
