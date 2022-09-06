@@ -1,6 +1,8 @@
 # Elliot Reyes
 
-Este repositorio tiene las practicas y tareas de la materia de sistemas operativos y redes.
+Este repositorio tiene las practicas y tareas de la materia de sistemas operativos y redes.  
+
+este es el segundo cambio que agregue jaja holi ♥
 
 ## Practicas Parcial 1 
 -[Practica1](./Practica1.md)
