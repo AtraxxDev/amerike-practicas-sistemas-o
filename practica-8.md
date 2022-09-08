@@ -79,3 +79,5 @@ R= Github es una herramienta que nos ayuda a traspasar proyectos desde distintos
 ¿Para que sirve GitHub?
 
 R= Para pasarnos archivos desde distintos lugares mediante repositorios , sirve como un vinculo 
+
+Finalizado
