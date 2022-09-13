@@ -12,3 +12,5 @@ este es el segundo cambio que agregue jaja holi ♥
 -[Practica4](https://github.com/AtraxxDev/practica4)
 
 -[Practica8](/practica-8.md) Practica 8
+
+Iniciando 2do parcial
