@@ -18,3 +18,21 @@ Iniciando 2do parcial
 -[Practica1](https://github.com/AtraxxDev/MateriasPractica)
 
 # Creando la versión 1.0.0 de este repositorio nuevo a
+
+> ¿Cómo se inicializa un repositorio en Git?
+>
+>R= git init
+
+>¿Cómo creas un repositorio en GitHub?
+>
+> R= te vas a la pestaña de new en boton verde  dentro de github
+
+>¿Cómo vinculas un repositorio local de Git con uno remoto en GitHub?
+>
+>R= git remote add origin https://github.com/usuario/repositorio.git
+
+>¿Cuál es el flujo básico de trabajo en Git y GitHub?
+>
+> R= <h1>FLUJO BASICO 
+>
+>![Flujo basico](https://jonmircha.com/img/blog/git-flow.png)
