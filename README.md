@@ -16,3 +16,5 @@ este es el segundo cambio que agregue jaja holi ♥
 Iniciando 2do parcial
 
 -[Practica1](https://github.com/AtraxxDev/MateriasPractica)
+
+# Creando la versión 1.0.0 de este repositorio.
